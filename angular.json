@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "pipeAngular"
+  "defaultProject": "pipeAngular",
+  "cli": {
+    "analytics": false
+  }
 }
